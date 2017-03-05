@@ -399,3 +399,9 @@ body {
   font-weight: bold;
   font-size: 1.0em;
 }
+
+.AGMimage {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
